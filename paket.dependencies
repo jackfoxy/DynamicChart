@@ -1,0 +1,6 @@
+framework: auto-detect
+source https://api.nuget.org/v3/index.json
+
+nuget FSharp.Core
+nuget Fable.Core
+nuget Fable.Browser.Dom
